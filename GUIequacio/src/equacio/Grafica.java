@@ -1,7 +1,7 @@
 package equacio;
 
 import javax.swing.JButton;
-import java.awt. * ;
+import java.awt.* ;
 
 public class Grafica {
   //Important, l'escena ha de ser publica i estatica
